@@ -1,0 +1,10 @@
+.item{
+    display:flex;
+    justify-content: space-around;
+}
+h1{
+    margin-left: 850px;
+}
+.description h1{
+    margin-left: 770px;
+}
