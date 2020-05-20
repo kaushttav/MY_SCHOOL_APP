@@ -11,3 +11,6 @@ h1{
 body{
     background-color: #7fffd4;
 }
+.item:hover img{
+    opacity:0.33;
+}
